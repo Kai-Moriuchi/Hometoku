@@ -1,6 +1,9 @@
 # Hometoku
 Slack app Hometokuの開発
 
+## スライド
+https://docs.google.com/presentation/d/1rma-4fDNjVkG9htI5yMbbt2ryckZBONcv_8WFbjggzQ/edit?usp=sharing
+
 ## コーディング規約
 [Pythonの基本的なコーディング規約](https://pep8-ja.readthedocs.io/ja/latest/)を参照    
 ミスってた部分だけピックアップして書き足す
